@@ -6,7 +6,33 @@
 
 
 
-\- Registro de estados y plantilla de Pull Request pendientes para v1.1.0.
+\- Sin cambios pendientes.
+
+
+
+\## \[v1.1.0] - 2026-08-15
+
+
+
+\### Added
+
+
+
+\- Registro de estados en CM\_STATUS\_REGISTER.md.
+
+\- Plantilla de Pull Request en .github/pull\_request\_template.md.
+
+\- Registro de hallazgos en docs/CM/AUDIT\_FINDINGS.md.
+
+
+
+\### Changed
+
+
+
+\- Se consolidó la trazabilidad ISSUE-1 -> commit -> Pull Request -> release.
+
+\- Se documentó el estado final de ocho elementos de configuración.
 
 
 
@@ -48,7 +74,7 @@
 
 \- README con convenciones.
 
-\- SRS v1 con REQ-001, REQ-002, RNF-001 y RNF-002.
+\- SRS v1 con requisitos funcionales y no funcionales.
 
 \- Código mínimo en src/app.py.
 
