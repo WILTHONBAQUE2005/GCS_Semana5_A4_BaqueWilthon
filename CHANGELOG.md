@@ -16,3 +16,4 @@
 
 \- Baseline: estructura + SRS v1 + código mínimo + prueba mínima
 
+# hotfix note
