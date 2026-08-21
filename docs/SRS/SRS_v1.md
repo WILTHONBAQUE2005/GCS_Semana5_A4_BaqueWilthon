@@ -12,3 +12,4 @@ RNF-001: Los cambios deben ser trazables a un ISSUE y evidencias.
 
 RNF-002: El versionado seguirá SemVer con tags y changelog.
 
+REQ-003: Filtrar productos por fecha (pendiente de definir criterios).
